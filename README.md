@@ -12,7 +12,14 @@ LOGIN with GOOGLE.
 CLI command : composer require laravel/socialite
 ```
 ### LOGIN With Google - `Step - 2` 
-- Then goto `https://console.cloud.google.com/`. And setup all functionalities.
+- Then goto `https://console.cloud.google.com/`. And setup all functionalities. 
+```
+Enable & APIs services > CREATE PROJECT > Give a project Name.
+
+===================After Creating Project============================
+
+Goto  :  Credentials > Create Credentials > OAuth client ID > CONFIGURE CONSENT SCREEN
+```
 ![App Screenshot]()
 ![App Screenshot]()
 ![App Screenshot]()
