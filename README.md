@@ -1,7 +1,7 @@
 
 # Laravel Social Login with Socialite  - `Socialite` 
 
-LOGIN with 
+LOGIN with GOOGLE.
 
 
 
